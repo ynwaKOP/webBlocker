@@ -3,11 +3,13 @@
 This is a python practise application -- Web Blocker
 
 program background
+
 The purpose is to design a pyhton program that could block certain distracting entertainment websites,
 such as facebook, youtube. Because I do not want to distract by those websites during my study hours or working hour,
 but sometimes people cannot stop visiting them. 
 
 program details
+
 use datetime to set up the working hours, and the program will automatically write www.facebook.com, facebook.com 
 and any other desired websites into the system file look like below:
 
